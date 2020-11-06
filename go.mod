@@ -1,4 +1,4 @@
-module github.com/hyperledger/fabric-contract-api-go
+module github.com/jxu86/fabric-contract-api-go
 
 go 1.13
 
