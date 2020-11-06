@@ -11,12 +11,12 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/hyperledger/fabric-chaincode-go/pkg/cid"
-	"github.com/hyperledger/fabric-chaincode-go/shim"
-	"github.com/hyperledger/fabric-contract-api-go/internal"
-	"github.com/hyperledger/fabric-contract-api-go/internal/utils"
-	"github.com/hyperledger/fabric-contract-api-go/metadata"
-	"github.com/hyperledger/fabric-contract-api-go/serializer"
+	"github.com/jxu86/fabric-chaincode-go/pkg/cid"
+	"github.com/jxu86/fabric-chaincode-go/shim"
+	"github.com/jxu86/fabric-contract-api-go/internal"
+	"github.com/jxu86/fabric-contract-api-go/internal/utils"
+	"github.com/jxu86/fabric-contract-api-go/metadata"
+	"github.com/jxu86/fabric-contract-api-go/serializer"
 	"github.com/hyperledger/fabric-protos-go/peer"
 )
 

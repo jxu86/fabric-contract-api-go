@@ -13,7 +13,7 @@ import (
 
 	"github.com/go-openapi/spec"
 	"github.com/gobuffalo/packr"
-	"github.com/hyperledger/fabric-contract-api-go/internal/utils"
+	"github.com/jxu86/fabric-contract-api-go/internal/utils"
 	"github.com/xeipuuv/gojsonschema"
 )
 
